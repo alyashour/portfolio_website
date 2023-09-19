@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MajorMonoDisplay';
-    src: url('MajorMonoDisplay-Regular.ttf') format('truetype');
+    src: url('/Fonts/MajorMonoDisplay-Regular.ttf') format('truetype');
 }
 
 * {
