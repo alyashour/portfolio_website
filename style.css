@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MajorMonoDisplay';
-    src: url(MajorMonoDisplay-Regular.ttf) format('truetype');
+    src: url('MajorMonoDisplay-Regular.ttf') format('truetype');
 }
 
 * {
@@ -83,6 +83,7 @@ a:hover {
 }
 
 footer {
+    font-family: 'MajorMonoDisplay';
     position: fixed;
     padding: 10px;
     left: 0;
